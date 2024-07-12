@@ -21,7 +21,6 @@ return {
 				lua = { "stylua" },
 				python = { "isort", "black" },
 				go = { "gofmt", "goimports" }, -- Formatting for Golang
-				rust = { "rustfmt" }, -- Formatting for Rust
 				cpp = { "clang-format" },
 			},
 			format_on_save = {
