@@ -11,7 +11,6 @@ return {
 			typescriptreact = { "eslint" },
 			svelte = { "eslint" },
 			python = { "pylint" },
-			rust = { "cargo", "clippy" }, -- Rust linters
 			cpp = { "cpplint" },
 		}
 
